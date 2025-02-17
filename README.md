@@ -2,9 +2,9 @@
 
 **___________________________**
 
-1. bash apt-get install bash  
+1. sudo apt-get install bash  
 
-2. bash apt-get install git  
+2. sudo apt-get install git  
 
 3. git clone https://github.com/WhBeatZ/WhPhisher.git 
 
